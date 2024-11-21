@@ -1,11 +1,5 @@
 # NLP-Text-Analysis-App
 
-Here’s a simple README file template for your project:
-
----
-
-# NLP Text Analysis Application
-
 An interactive **Streamlit** application for performing **Natural Language Processing (NLP)** tasks. This app allows users to analyze text by generating various tokenizations, n-grams, and a word cloud visualization to understand the structure and frequency of words in the input text.
 
 ## Features
